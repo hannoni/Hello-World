@@ -2,7 +2,21 @@ h1 {
   font-family: sans-serif;
 }
 
+h2 {
+    font-family: cursive;
+}
 
+h3 {
+    font-family: fantasy;
+}
+
+h3 {
+    font-family: monospace;
+}
+
+h4 {
+    font-family: sans-serif;
+}
 
 /* Flexible images */
 
