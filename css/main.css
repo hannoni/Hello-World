@@ -1,3 +1,5 @@
+#6699FF
+
 /* Headings */
 
 h1 {
@@ -20,8 +22,13 @@ h4 {
 h2 {
   font-family: cursive;
   font-size: 28px;
-  font-weight: bold;  
+  font-weight: 800;  
 }
+
+/* Grouping */
+
+ol {
+  
 
 /* Flexible images */
 
