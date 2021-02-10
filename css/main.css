@@ -1,6 +1,6 @@
 /* Notes */
 
-background-color: #fff5b1
+background-color: #fff5b1;
 
 /* Headings */
 
@@ -21,12 +21,7 @@ h2 {
   font-family: cursive;
   font-size: 30px;
   font-weight: 900;  
-}
-
-/* Grouping */
-
-ol {
-  
+} 
 
 /* Flexible images */
 
